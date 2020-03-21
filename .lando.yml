@@ -1,0 +1,5 @@
+name: olivero-sandbox
+recipe: drupal8
+config:
+  webroot: web
+  php: '7.3'

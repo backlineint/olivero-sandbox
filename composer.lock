@@ -1951,7 +1951,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/olivero.git",
-                "reference": "5dbaa2ca4ec7dd379f66b7a4e494547d46b68a83"
+                "reference": "8cdf748454e0d4866ec9ff2b3ef41e8171892590"
             },
             "type": "drupal-theme",
             "license": [
@@ -1963,7 +1963,7 @@
                 "issues": "https://www.drupal.org/project/issues/olivero",
                 "source": "https://git.drupalcode.org/project/olivero"
             },
-            "time": "2020-03-10T04:15:05+00:00"
+            "time": "2020-03-29T03:00:46+00:00"
         },
         {
             "name": "drupal/styleguide",

@@ -23,6 +23,7 @@
         "drupal/core-composer-scaffold": "^8.8",
         "drupal/core-project-message": "^8.8",
         "drupal/core-recommended": "^8.8",
+        "drupal/devel": "^2.1",
         "drupal/olivero": "dev-8.x-1.x-dev",
         "drupal/styleguide": "^1.0@alpha",
         "drush/drush": "^9"

@@ -1,5 +1,9 @@
 name: olivero-sandbox
 recipe: drupal8
-config:
-  webroot: web
-  php: '7.3'
+services:
+  appserver:
+    webroot: web
+    xdebug: false
+    php: '7.3'
+    config:
+      php: .vscode/php.ini

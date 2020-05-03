@@ -1,0 +1,10 @@
+{
+  "folders": [],
+  "settings": {},
+  "[javascript]": {
+    "editor.formatOnSave": true
+  }
+  "files.associations": {
+    "*.module": "php"
+  }
+}
